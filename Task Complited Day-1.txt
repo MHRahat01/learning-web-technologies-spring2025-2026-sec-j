@@ -1,5 +1,0 @@
-1. Git Bash Setup
-2. Check Window Credentials
-3. Create text file and psuh it to gitHub
-4.Create a table and push it to gitHub
-5.Create a form and push it to gitHub
