@@ -1,0 +1,37 @@
+<students>
+    <student>
+        <serial> 23 </serial>
+        <fname> John </fname>
+        <lname> carter </lname>
+
+        <admission>
+            <day>25</day>
+            <month> 12 </month>
+            <year> 2015 </year>
+        </admission>
+    </student> 
+
+     <student>
+        <serial> 29 </serial>
+        <fname> Bob </fname>
+        <lname> Marshal </lname>
+
+        <admission>
+            <day>13</day>
+            <month> 01 </month>
+            <year> 1999 </year>
+        </admission>
+    </student>    
+
+     <student>
+        <serial> 35 </serial>
+        <fname> Clark </fname>
+        <lname> Kent </lname>
+
+        <admission>
+            <day> 17 </day>
+            <month> 06 </month>
+            <year> 2005 </year>
+        </admission>
+    </student>       
+</students>
