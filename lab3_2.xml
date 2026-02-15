@@ -1,0 +1,58 @@
+<stuffs>
+    <stuff>
+        <id>1</id>
+        <name>
+            <fname>John</fname>
+            <lname>Doe</lname>
+        </name>
+        <address>
+            <flat></flat>
+            <house>38</house>
+            <road>3</road>
+            <area>Banani</area>
+            <city>Dhaka</city>
+        </address>
+        <department>Sales</department>
+        <salary> 20000</salary>
+
+
+    </stuff>
+
+     <stuff>
+        <id>2</id>
+        <name>
+            <fname>Mark</fname>
+            <lname>Zukerberg</lname>
+        </name>
+        <address>
+            <flat>A/1</flat>
+            <house>20</house>
+            <road>18</road>
+            <area>Mirpur</area>
+            <city>Dhaka</city>
+        </address>
+        <department>Accounts</department>
+        <salary> 12000</salary>
+
+
+    </stuff>
+
+     <stuff>
+        <id>3</id>
+        <name>
+            <fname>Ala</fname>
+            <lname>Voski</lname>
+        </name>
+        <address>
+            <flat></flat>
+            <house>38</house>
+            <road>3</road>
+            <area>Motijheel</area>
+            <city></city>
+        </address>
+        <department>Human Resource</department>
+        <salary> 30000</salary>
+
+
+    </stuff>
+</stuffs>
