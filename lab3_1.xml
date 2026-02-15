@@ -1,8 +1,10 @@
 <students>
     <student>
         <serial> 23 </serial>
-        <fname> John </fname>
-        <lname> carter </lname>
+        <name>
+            <fname> John </fname>
+            <lname> carter </lname>
+        </name>
 
         <admission>
             <day>25</day>
