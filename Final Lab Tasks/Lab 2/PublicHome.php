@@ -1,15 +1,18 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Public Home</title>
+    <title>Home</title>
 </head>
 <body>
 
-<h2>Public Home</h2>
+<fieldset style="width:300px;">
+    <p>Welcome to xCompany</p>
+        <a href="homepage.php">Home</a><br>
+        <a href="registration.php">Registration</a><br>
+        <a href="login.php">Login</a><br>   
 
-<a href="registration.php">Registration</a><br>
-<a href="login.php">Login</a><br>
-<a href="forgot_password.php">Forgot Password</a>
+
+</fieldset>
 
 </body>
 </html>
